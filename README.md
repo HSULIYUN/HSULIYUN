@@ -3,6 +3,7 @@
 <p align="center">
   <b>全端開發 | AI 應用開發 | 電腦視覺與影像辨識 </b>
 </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=YOLO+%2B+OpenCV+%2B+LLM+%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98;React+%2B+Next.js+%2B+Node.js+%E5%85%A8%E7%AB%AF%E9%96%8B%E7%99%BC;Java+%2B+Freemarker+%2B+jQuery+%E4%BC%81%E6%A5%AD%E7%B3%BB%E7%B5%B1;Python+%2B+Hugging+Face+%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8" />
 ---
 
 ## 🚀 About Me
