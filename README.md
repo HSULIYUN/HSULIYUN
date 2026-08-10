@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;YOLO+%2B+OpenCV+%2B+LLM;Vue.js+%2B+React+%2B+Next.js+%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC;Spring+%2B+Spring+AI+%2B+Java+%E5%BE%8C%E7%AB%AF%E9%96%8B%E7%99%BC;Python+%2B+Hugging+Face+%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;YOLO+%2B+OpenCV+%2B+LLM+Computer+Vision;Vue.js+%2B+React+%2B+Next.js+Frontend;Spring+%2B+Spring+AI+%2B+Java+Backend;Python+%2B+Hugging+Face+Model+Serving" />
 </p>
 
 <p align="center">
@@ -89,11 +87,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiuu&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiuu&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiuu&theme=tokyonight&hide_border=true" />
