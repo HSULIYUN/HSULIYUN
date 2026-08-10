@@ -26,7 +26,6 @@
 - 🤖 熱愛研究 AI 應用開發，包含 LLM 串接與影像辨識
 - 🎯 目前專注於將 AI 技術整合進實際產品與工作流程
 - 🤝 歡迎交流開源專案、AI 應用、電腦視覺相關的想法
-- 💬 可以問我：全端開發、AI 應用、電腦視覺、影像辨識
 
 ---
 
@@ -66,23 +65,6 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🔭 Current Focus
-
-- 🧩 開發整合 AI 能力的全端應用
-- 🎯 研究影像辨識與電腦視覺在實務上的應用
-- 🧠 實驗 LLM 微調與本地推論
-- 📈 持續累積開源專案作品集
-
----
-
-## 🤝 Collaboration & Goals
-
-- 🌟 樂於參與開源 AI / 全端專案
-- 🎯 尋找軟體工程 / AI 相關的合作或職缺機會
-- 📚 喜歡學習與分享，AI + 全端開發都是我的舒適圈
 
 ---
 
