@@ -1,32 +1,16 @@
 <h1 align="center">Hi there, I'm Hiuu 👋</h1>
 
 <p align="center">
-  <b>全端開發者 | AI 應用開發 | 電腦視覺與影像辨識愛好者</b>
+  <b>全端開發 | AI 應用開發 | 電腦視覺與影像辨識 </b>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=YOLO+%2B+OpenCV+%2B+LLM+%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98;React+%2B+Next.js+%2B+Node.js+%E5%85%A8%E7%AB%AF%E9%96%8B%E7%99%BC;Java+%2B+Freemarker+%2B+jQuery+%E4%BC%81%E6%A5%AD%E7%B3%BB%E7%B5%B1;Python+%2B+Hugging+Face+%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/hiuu">
-    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/📍_TAIWAN-2e7d32?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
 - 💻 全端工程師，前後端都能獨立完成
-- 🤖 熱愛研究 AI 應用開發，包含 LLM 串接與影像辨識
+- 🤖 研究 AI 應用開發，包含 LLM 串接與影像辨識
 - 🎯 目前專注於將 AI 技術整合進實際產品與工作流程
 - 🤝 歡迎交流開源專案、AI 應用、電腦視覺相關的想法
-- 💬 可以問我：全端開發、AI 應用、電腦視覺、影像辨識
 
 ---
 
@@ -72,14 +56,6 @@
 - 🎯 研究影像辨識與電腦視覺在實務上的應用
 - 🧠 實驗 LLM 微調與本地推論
 - 📈 持續累積開源專案作品集
-
----
-
-## 🤝 Collaboration & Goals
-
-- 🌟 樂於參與開源 AI / 全端專案
-- 🎯 尋找軟體工程 / AI 相關的合作或職缺機會
-- 📚 喜歡學習與分享，AI + 全端開發都是我的舒適圈
 
 ---
 
