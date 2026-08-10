@@ -25,32 +25,49 @@
 
 ### 🌐 全端開發
 
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Freemarker](https://img.shields.io/badge/FREEMARKER-D22128?style=for-the-badge)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="80"><img src="./icons/react.SVG" width="28" /><br/><sub>React</sub></td>
+    <td align="center" width="80"><img src="./icons/vuedotjs.svg" width="28" /><br/><sub>Vue.js</sub></td>
+    <td align="center" width="80"><img src="./icons/nextdotjs.SVG" width="28" /><br/><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="./icons/nodedotjs.SVG" width="28" /><br/><sub>Node.js</sub></td>
+    <td align="center" width="80"><img src="./icons/jquery.SVG" width="28" /><br/><sub>jQuery</sub></td>
+    <td align="center" width="80"><img src="./icons/openjdk.SVG" width="28" /><br/><sub>Java</sub></td>
+    <td align="center" width="80"><img src="./icons/spring.SVG" width="28" /><br/><sub>Spring</sub></td>
+    <td align="center" width="80"><sub>Freemarker</sub></td>
+  </tr>
+</table>
+</div>
 
 ### 🤖 AI & 電腦視覺
 
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM_APPLICATIONS-orange?style=for-the-badge)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="80"><img src="./icons/opencv.SVG" width="28" /><br/><sub>OpenCV</sub></td>
+    <td align="center" width="80"><img src="./icons/pytorch.SVG" width="28" /><br/><sub>PyTorch</sub></td>
+    <td align="center" width="80"><img src="./icons/huggingface.SVG" width="28" /><br/><sub>Hugging Face</sub></td>
+    <td align="center" width="80"><sub>LLM / YOLO</sub></td>
+  </tr>
+</table>
+</div>
 
 ### 🛠️ 程式語言與工具
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="80"><img src="./icons/python.SVG" width="28" /><br/><sub>Python</sub></td>
+    <td align="center" width="80"><img src="./icons/javascript.SVG" width="28" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="./icons/html5.SVG" width="28" /><br/><sub>HTML5</sub></td>
+    <td align="center" width="80"><img src="./icons/css3.SVG" width="28" /><br/><sub>CSS3</sub></td>
+    <td align="center" width="80"><img src="./icons/git.SVG" width="28" /><br/><sub>Git</sub></td>
+    <td align="center" width="80"><img src="./icons/github.SVG" width="28" /><br/><sub>GitHub</sub></td>
+    <td align="center" width="80"><img src="./icons/docker.SVG" width="28" /><br/><sub>Docker</sub></td>
+  </tr>
+</table>
+</div>
 
 <br>
 
