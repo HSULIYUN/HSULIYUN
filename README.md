@@ -1,23 +1,5 @@
 <h1 align="center">Hi there, I'm Hiuu 👋</h1>
 
-<p align="center">
-  <b>全端開發者 | AI 應用開發 | 電腦視覺與影像辨識愛好者</b>
-</p>
-
-<p align="center">
-  <code>從前端到後端，從網頁到 AI，什麼都想摸一摸 🚀</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hiuu">
-    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/📍_TAIWAN-2e7d32?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 About Me
