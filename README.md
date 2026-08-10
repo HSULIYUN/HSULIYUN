@@ -48,7 +48,7 @@
     <td align="center" width="80"><img src="./icons/Opencv.SVG" width="28" /><br/><sub>OpenCV</sub></td>
     <td align="center" width="80"><img src="./icons/Pytorch.SVG" width="28" /><br/><sub>PyTorch</sub></td>
     <td align="center" width="80"><img src="./icons/Huggingface.SVG" width="28" /><br/><sub>Hugging Face</sub></td>
-    <td align="center" width="80"><sub>LLM / YOLO</sub></td>
+    <td align="center" width="80"><sub>LLM YOLO</sub></td>
   </tr>
 </table>
 </div>
