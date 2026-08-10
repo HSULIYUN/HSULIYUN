@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1b2540?style=flat-square" /></a>
+  <a href="mailto:liyunx087@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1b2540?style=flat-square" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/hiuu"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
@@ -22,22 +22,29 @@
 <br>
 
 ## 技能地圖
- 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,java,spring,python,js,opencv,pytorch,git&theme=dark&perline=6" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,java,spring,python,js,html,css,opencv,pytorch&theme=dark&perline=6" />
 </p>
 
-<div align="center">
-| 分類 | 內容 |
-|---|---|
-| 前端 | React・Vue.js・Next.js・jQuery |
-| 後端 | Node.js・Java・Spring・Spring AI・Freemarker |
-| AI / 電腦視覺 | YOLO・OpenCV・PyTorch・Hugging Face・LLM 整合 |
- 
-</div>
+<table align="center">
+  <tr>
+    <th>分類</th>
+    <th>內容</th>
+  </tr>
+  <tr>
+    <td align="center">前端</td>
+    <td align="center">React・Vue.js・Next.js・jQuery</td>
+  </tr>
+  <tr>
+    <td align="center">後端</td>
+    <td align="center">Node.js・Java・Spring・Spring AI・Freemarker</td>
+  </tr>
+  <tr>
+    <td align="center">AI / 電腦視覺</td>
+    <td align="center">YOLO・OpenCV・PyTorch・Hugging Face・LLM 整合</td>
+  </tr>
+</table>
 
 <br>
 
