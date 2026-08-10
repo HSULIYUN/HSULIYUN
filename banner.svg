@@ -13,7 +13,7 @@
     </filter>
   </defs>
 
-  <rect width="1600" height="260" fill="url(#sky)"/>
+  <!-- 背景維持透明，只保留霧氣層 -->
 
   <!-- 遠景霧氣，慢速飄移 -->
   <g opacity="0.16" filter="url(#softBlur)">
@@ -56,8 +56,9 @@
       values="-500,0; 2100,0" dur="32s" repeatCount="indefinite" />
   </g>
 
-<text x="800" y="120" text-anchor="middle" font-family="Georgia, 'Playfair Display', 'Noto Serif TC', serif"
-      font-size="64" font-weight="1000" fill="#eef2fb" letter-spacing="4">
-  Hiuu
-</text>
+  <!-- 標題文字 -->
+  <text x="800" y="120" text-anchor="middle" font-family="Georgia, 'Playfair Display', 'Noto Serif TC', serif"
+        font-size="64" font-weight="600" fill="#eef2fb" letter-spacing="4">
+    Hiuu
+  </text>
 </svg>
