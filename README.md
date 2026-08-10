@@ -20,6 +20,7 @@
 - 🤝 歡迎交流開源專案、AI 應用、電腦視覺相關的想法
 
 <br>
+
 ## 技能地圖
  
 <p align="center">
@@ -28,6 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
+
 <div align="center">
 | 分類 | 內容 |
 |---|---|
@@ -36,6 +38,7 @@
 | AI / 電腦視覺 | YOLO・OpenCV・PyTorch・Hugging Face・LLM 整合 |
  
 </div>
+
 <br>
 
 ## 正在做的事
