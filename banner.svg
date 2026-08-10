@@ -56,13 +56,8 @@
       values="-500,0; 2100,0" dur="32s" repeatCount="indefinite" />
   </g>
 
-  <!-- 標題文字 -->
-  <text x="800" y="120" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans TC', sans-serif"
-        font-size="64" font-weight="700" fill="#eef2fb" letter-spacing="2">
-    Hiuu
-  </text>
-  <text x="800" y="160" text-anchor="middle" font-family="'Noto Sans TC', 'Segoe UI', sans-serif"
-        font-size="22" fill="#9fb4d8" letter-spacing="1">
-    全端開發 × AI 應用 × 電腦視覺
-  </text>
+<text x="800" y="120" text-anchor="middle" font-family="Georgia, 'Playfair Display', 'Noto Serif TC', serif"
+      font-size="64" font-weight="1000" fill="#eef2fb" letter-spacing="4">
+  Hiuu
+</text>
 </svg>
