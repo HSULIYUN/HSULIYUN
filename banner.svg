@@ -11,49 +11,49 @@
   <!-- 背景維持透明，只保留霧氣層 -->
 
   <!-- 遠景霧氣，慢速飄移 -->
-  <g opacity="0.16" filter="url(#softBlur)">
-    <ellipse cx="200" cy="80" rx="220" ry="45" fill="#9fb4d8">
+  <g opacity="0.28" filter="url(#softBlur)">
+    <ellipse cx="200" cy="80" rx="220" ry="45" fill="#94a3b8">
       <animateTransform attributeName="transform" type="translate"
         values="-300,0; 1900,0" dur="55s" repeatCount="indefinite" />
     </ellipse>
-    <ellipse cx="900" cy="150" rx="260" ry="50" fill="#8fa3c9">
+    <ellipse cx="900" cy="150" rx="260" ry="50" fill="#8898b5">
       <animateTransform attributeName="transform" type="translate"
         values="-400,0; 1900,0" dur="70s" repeatCount="indefinite" />
     </ellipse>
   </g>
 
   <!-- 中景雲朵，中速飄移 -->
-  <g opacity="0.22" filter="url(#softBlur)">
-    <ellipse cx="120" cy="60" rx="140" ry="30" fill="#c7d4ec"/>
-    <ellipse cx="230" cy="75" rx="100" ry="24" fill="#c7d4ec"/>
-    <ellipse cx="60" cy="90" rx="90" ry="22" fill="#c7d4ec"/>
+  <g opacity="0.34" filter="url(#softBlur)">
+    <ellipse cx="120" cy="60" rx="140" ry="30" fill="#9aa8c4"/>
+    <ellipse cx="230" cy="75" rx="100" ry="24" fill="#9aa8c4"/>
+    <ellipse cx="60" cy="90" rx="90" ry="22" fill="#9aa8c4"/>
     <animateTransform attributeName="transform" type="translate"
       values="-250,0; 1850,0" dur="38s" repeatCount="indefinite" />
   </g>
 
-  <g opacity="0.18" filter="url(#softBlur)">
-    <ellipse cx="700" cy="190" rx="150" ry="28" fill="#b7c6e6"/>
-    <ellipse cx="810" cy="200" rx="110" ry="22" fill="#b7c6e6"/>
-    <ellipse cx="620" cy="205" rx="90" ry="20" fill="#b7c6e6"/>
+  <g opacity="0.3" filter="url(#softBlur)">
+    <ellipse cx="700" cy="190" rx="150" ry="28" fill="#8fa0c2"/>
+    <ellipse cx="810" cy="200" rx="110" ry="22" fill="#8fa0c2"/>
+    <ellipse cx="620" cy="205" rx="90" ry="20" fill="#8fa0c2"/>
     <animateTransform attributeName="transform" type="translate"
       values="-350,0; 1950,0" dur="46s" repeatCount="indefinite" />
   </g>
 
   <!-- 近景薄霧，快速飄移，貼近文字底部 -->
-  <g opacity="0.14" filter="url(#softBlurSmall)">
-    <ellipse cx="400" cy="220" rx="180" ry="18" fill="#ffffff"/>
+  <g opacity="0.26" filter="url(#softBlurSmall)">
+    <ellipse cx="400" cy="220" rx="180" ry="18" fill="#a3b2cc"/>
     <animateTransform attributeName="transform" type="translate"
       values="-400,0; 2000,0" dur="26s" repeatCount="indefinite" />
   </g>
-  <g opacity="0.12" filter="url(#softBlurSmall)">
-    <ellipse cx="1100" cy="235" rx="220" ry="16" fill="#ffffff"/>
+  <g opacity="0.24" filter="url(#softBlurSmall)">
+    <ellipse cx="1100" cy="235" rx="220" ry="16" fill="#a3b2cc"/>
     <animateTransform attributeName="transform" type="translate"
       values="-500,0; 2100,0" dur="32s" repeatCount="indefinite" />
   </g>
 
   <!-- 標題文字 -->
   <text x="800" y="120" text-anchor="middle" font-family="Georgia, 'Playfair Display', 'Noto Serif TC', serif"
-        font-size="64" font-weight="600" fill="#eef2fb" letter-spacing="4">
+        font-size="64" font-weight="600" fill="#6b7280" letter-spacing="4">
     Hiuu
   </text>
 
@@ -86,19 +86,19 @@
   </defs>
 
   <text x="800" y="173" text-anchor="middle" font-family="Georgia, 'Noto Serif TC', serif"
-        font-size="24" letter-spacing="1" fill="#cdd8ef" clip-path="url(#typeClip1)">
+        font-size="24" letter-spacing="1" fill="#6b7280" clip-path="url(#typeClip1)">
     Full-Stack Developer &#215; AI Application
   </text>
   <text x="800" y="173" text-anchor="middle" font-family="Georgia, 'Noto Serif TC', serif"
-        font-size="24" letter-spacing="1" fill="#cdd8ef" clip-path="url(#typeClip2)">
+        font-size="24" letter-spacing="1" fill="#6b7280" clip-path="url(#typeClip2)">
     Computer Vision &#215; YOLO &#215; OpenCV
   </text>
   <text x="800" y="173" text-anchor="middle" font-family="Georgia, 'Noto Serif TC', serif"
-        font-size="24" letter-spacing="1" fill="#cdd8ef" clip-path="url(#typeClip3)">
+        font-size="24" letter-spacing="1" fill="#6b7280" clip-path="url(#typeClip3)">
     LLM Integration &#215; Hugging Face
   </text>
 
-  <rect width="2" height="26" y="153" fill="#cdd8ef">
+  <rect width="2" height="26" y="153" fill="#6b7280">
     <animate attributeName="x"
       values="530;1070;1070;530;580;1020;1020;580;590;1010;1010;590"
       keyTimes="0;0.2;0.2833;0.3333;0.3334;0.5333;0.6167;0.6667;0.6668;0.8667;0.95;1"
