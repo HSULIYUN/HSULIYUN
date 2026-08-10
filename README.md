@@ -21,22 +21,29 @@
 
 <br>
 
-## 🧠 Core Expertise
+## 🧠 技能地圖
+
 ### 🌐 全端開發
+
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Freemarker](https://img.shields.io/badge/FREEMARKER-D22128?style=for-the-badge)
+
 ### 🤖 AI & 電腦視覺
+
 ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LLM](https://img.shields.io/badge/LLM_APPLICATIONS-orange?style=for-the-badge)
+
 ---
+
 ## 🛠️ Languages & Tools
+
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,20 +56,7 @@
 
 <br>
 
-## 正在做的事
-
-- 🧠 練習把 LLM 串接進實際工作流程，而不只是呼叫 API
-- 👁️ 用 YOLO + OpenCV 做即時影像辨識的小專案
-- 🛠️ 累積全端作品集，一步步把想法做成能上線的東西
-
-<br>
-
 ## GitHub 數據
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiuu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0b1120" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiuu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0b1120" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiuu&theme=midnight-purple&hide_border=true&background=0b1120" />
@@ -71,3 +65,7 @@
 <br>
 
 <p align="center">🌫️ 感謝路過，有想聊 AI 應用或全端開發都歡迎交流。</p>
+
+<p align="center">
+  <img src="./fog-footer.svg" width="100%" />
+</p>
