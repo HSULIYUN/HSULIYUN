@@ -1,0 +1,68 @@
+<svg width="100%" height="260" viewBox="0 0 1600 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="55%" stop-color="#131c31"/>
+      <stop offset="100%" stop-color="#1b2540"/>
+    </linearGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+    <filter id="softBlurSmall" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="260" fill="url(#sky)"/>
+
+  <!-- 遠景霧氣，慢速飄移 -->
+  <g opacity="0.16" filter="url(#softBlur)">
+    <ellipse cx="200" cy="80" rx="220" ry="45" fill="#9fb4d8">
+      <animateTransform attributeName="transform" type="translate"
+        values="-300,0; 1900,0" dur="55s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="900" cy="150" rx="260" ry="50" fill="#8fa3c9">
+      <animateTransform attributeName="transform" type="translate"
+        values="-400,0; 1900,0" dur="70s" repeatCount="indefinite" />
+    </ellipse>
+  </g>
+
+  <!-- 中景雲朵，中速飄移 -->
+  <g opacity="0.22" filter="url(#softBlur)">
+    <ellipse cx="120" cy="60" rx="140" ry="30" fill="#c7d4ec"/>
+    <ellipse cx="230" cy="75" rx="100" ry="24" fill="#c7d4ec"/>
+    <ellipse cx="60" cy="90" rx="90" ry="22" fill="#c7d4ec"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="-250,0; 1850,0" dur="38s" repeatCount="indefinite" />
+  </g>
+
+  <g opacity="0.18" filter="url(#softBlur)">
+    <ellipse cx="700" cy="190" rx="150" ry="28" fill="#b7c6e6"/>
+    <ellipse cx="810" cy="200" rx="110" ry="22" fill="#b7c6e6"/>
+    <ellipse cx="620" cy="205" rx="90" ry="20" fill="#b7c6e6"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="-350,0; 1950,0" dur="46s" repeatCount="indefinite" />
+  </g>
+
+  <!-- 近景薄霧，快速飄移，貼近文字底部 -->
+  <g opacity="0.14" filter="url(#softBlurSmall)">
+    <ellipse cx="400" cy="220" rx="180" ry="18" fill="#ffffff"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="-400,0; 2000,0" dur="26s" repeatCount="indefinite" />
+  </g>
+  <g opacity="0.12" filter="url(#softBlurSmall)">
+    <ellipse cx="1100" cy="235" rx="220" ry="16" fill="#ffffff"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="-500,0; 2100,0" dur="32s" repeatCount="indefinite" />
+  </g>
+
+  <!-- 標題文字 -->
+  <text x="800" y="120" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans TC', sans-serif"
+        font-size="64" font-weight="700" fill="#eef2fb" letter-spacing="2">
+    Hiuu
+  </text>
+  <text x="800" y="160" text-anchor="middle" font-family="'Noto Sans TC', 'Segoe UI', sans-serif"
+        font-size="22" fill="#9fb4d8" letter-spacing="1">
+    全端開發 × AI 應用 × 電腦視覺
+  </text>
+</svg>
