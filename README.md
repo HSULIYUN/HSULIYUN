@@ -1,5 +1,23 @@
 <h1 align="center">Hi there, I'm Hiuu 👋</h1>
 
+<p align="center">
+  <b>全端開發者 | AI 應用開發 | 電腦視覺與影像辨識愛好者</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=YOLO+%2B+OpenCV+%2B+LLM+%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98;React+%2B+Next.js+%2B+Node.js+%E5%85%A8%E7%AB%AF%E9%96%8B%E7%99%BC;Java+%2B+Freemarker+%2B+jQuery+%E4%BC%81%E6%A5%AD%E7%B3%BB%E7%B5%B1;Python+%2B+Hugging+Face+%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/hiuu">
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/📍_TAIWAN-2e7d32?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -17,15 +35,18 @@
 ### 🌐 全端開發
 
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Freemarker](https://img.shields.io/badge/FREEMARKER-D22128?style=for-the-badge)
 
 ### 🤖 AI & 電腦視覺
 
 ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LLM](https://img.shields.io/badge/LLM_APPLICATIONS-orange?style=for-the-badge)
 
 ---
@@ -34,6 +55,7 @@
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
