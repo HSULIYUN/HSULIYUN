@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:liyunx087@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1b2540?style=flat-square" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/hiuu"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <br>
