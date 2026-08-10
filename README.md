@@ -28,13 +28,13 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="80"><img src="./icons/react.SVG" width="28" /><br/><sub>React</sub></td>
+    <td align="center" width="80"><img src="./icons/React.SVG" width="28" /><br/><sub>React</sub></td>
     <td align="center" width="80"><img src="./icons/vuedotjs.svg" width="28" /><br/><sub>Vue.js</sub></td>
-    <td align="center" width="80"><img src="./icons/nextdotjs.SVG" width="28" /><br/><sub>Next.js</sub></td>
-    <td align="center" width="80"><img src="./icons/nodedotjs.SVG" width="28" /><br/><sub>Node.js</sub></td>
-    <td align="center" width="80"><img src="./icons/jquery.SVG" width="28" /><br/><sub>jQuery</sub></td>
-    <td align="center" width="80"><img src="./icons/openjdk.SVG" width="28" /><br/><sub>Java</sub></td>
-    <td align="center" width="80"><img src="./icons/spring.SVG" width="28" /><br/><sub>Spring</sub></td>
+    <td align="center" width="80"><img src="./icons/Nextdotjs.SVG" width="28" /><br/><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="./icons/Nodedotjs.SVG" width="28" /><br/><sub>Node.js</sub></td>
+    <td align="center" width="80"><img src="./icons/Jquery.SVG" width="28" /><br/><sub>jQuery</sub></td>
+    <td align="center" width="80"><img src="./icons/Openjdk.SVG" width="28" /><br/><sub>Java</sub></td>
+    <td align="center" width="80"><img src="./icons/Spring.SVG" width="28" /><br/><sub>Spring</sub></td>
     <td align="center" width="80"><sub>Freemarker</sub></td>
   </tr>
 </table>
@@ -45,9 +45,9 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="80"><img src="./icons/opencv.SVG" width="28" /><br/><sub>OpenCV</sub></td>
-    <td align="center" width="80"><img src="./icons/pytorch.SVG" width="28" /><br/><sub>PyTorch</sub></td>
-    <td align="center" width="80"><img src="./icons/huggingface.SVG" width="28" /><br/><sub>Hugging Face</sub></td>
+    <td align="center" width="80"><img src="./icons/Opencv.SVG" width="28" /><br/><sub>OpenCV</sub></td>
+    <td align="center" width="80"><img src="./icons/Pytorch.SVG" width="28" /><br/><sub>PyTorch</sub></td>
+    <td align="center" width="80"><img src="./icons/Huggingface.SVG" width="28" /><br/><sub>Hugging Face</sub></td>
     <td align="center" width="80"><sub>LLM / YOLO</sub></td>
   </tr>
 </table>
@@ -58,13 +58,13 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="80"><img src="./icons/python.SVG" width="28" /><br/><sub>Python</sub></td>
-    <td align="center" width="80"><img src="./icons/javascript.SVG" width="28" /><br/><sub>JavaScript</sub></td>
-    <td align="center" width="80"><img src="./icons/html5.SVG" width="28" /><br/><sub>HTML5</sub></td>
-    <td align="center" width="80"><img src="./icons/css3.SVG" width="28" /><br/><sub>CSS3</sub></td>
-    <td align="center" width="80"><img src="./icons/git.SVG" width="28" /><br/><sub>Git</sub></td>
-    <td align="center" width="80"><img src="./icons/github.SVG" width="28" /><br/><sub>GitHub</sub></td>
-    <td align="center" width="80"><img src="./icons/docker.SVG" width="28" /><br/><sub>Docker</sub></td>
+    <td align="center" width="80"><img src="./icons/Python.SVG" width="28" /><br/><sub>Python</sub></td>
+    <td align="center" width="80"><img src="./icons/Javascript.SVG" width="28" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="./icons/Html5.SVG" width="28" /><br/><sub>HTML5</sub></td>
+    <td align="center" width="80"><img src="./icons/Css3.SVG" width="28" /><br/><sub>CSS3</sub></td>
+    <td align="center" width="80"><img src="./icons/Git.SVG" width="28" /><br/><sub>Git</sub></td>
+    <td align="center" width="80"><img src="./icons/Github.SVG" width="28" /><br/><sub>GitHub</sub></td>
+    <td align="center" width="80"><img src="./icons/Docker.SVG" width="28" /><br/><sub>Docker</sub></td>
   </tr>
 </table>
 </div>
