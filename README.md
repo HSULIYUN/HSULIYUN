@@ -57,7 +57,7 @@
 ## GitHub 數據
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiuu&theme=midnight-purple&hide_border=true&background=0b1120" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiuu&hide_border=true&background=ffffff&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2&stroke=e5e7eb&sideNums=1a1a1a&currStreakNum=1a1a1a&sideLabels=6b7280&dates=6b7280" />
 </p>
 
 <br>
