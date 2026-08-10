@@ -58,7 +58,7 @@
 
   <!-- 標題文字 -->
   <text x="800" y="120" text-anchor="middle" font-family="Georgia, 'Playfair Display', 'Noto Serif TC', serif"
-        font-size="64" font-weight="600" fill="#eef2fb" letter-spacing="4">
+        font-size="64" font-weight="1000" fill="#eef2fb" letter-spacing="4">
     Hiuu
   </text>
 </svg>
