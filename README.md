@@ -6,7 +6,7 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;YOLO+%2B+OpenCV+%2B+LLM+%E5%BD%B1%E5%83%8F%E8%BE%A8%E8%AD%98;Vue.js+%2B+React+%2B+Next.js+%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC;Spring+%2B+Spring+AI+%2B+Java+%E5%BE%8C%E7%AB%AF%E9%96%8B%E7%99%BC;Python+%2B+Hugging+Face+%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;YOLO+%2B+OpenCV+%2B+LLM;Vue.js+%2B+React+%2B+Next.js+%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC;Spring+%2B+Spring+AI+%2B+Java+%E5%BE%8C%E7%AB%AF%E9%96%8B%E7%99%BC;Python+%2B+Hugging+Face+%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8" />
 </p>
 </p>
 
