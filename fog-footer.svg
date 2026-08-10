@@ -8,32 +8,32 @@
     </filter>
   </defs>
 
-  <g opacity="0.16" filter="url(#softBlur)">
-    <ellipse cx="250" cy="50" rx="220" ry="40" fill="#9fb4d8">
+  <g opacity="0.28" filter="url(#softBlur)">
+    <ellipse cx="250" cy="50" rx="220" ry="40" fill="#94a3b8">
       <animateTransform attributeName="transform" type="translate"
         values="-300,0; 1900,0" dur="50s" repeatCount="indefinite" />
     </ellipse>
-    <ellipse cx="950" cy="90" rx="260" ry="45" fill="#8fa3c9">
+    <ellipse cx="950" cy="90" rx="260" ry="45" fill="#8898b5">
       <animateTransform attributeName="transform" type="translate"
         values="-400,0; 1900,0" dur="65s" repeatCount="indefinite" />
     </ellipse>
   </g>
 
   <g opacity="0.2" filter="url(#softBlur)">
-    <ellipse cx="150" cy="70" rx="140" ry="26" fill="#c7d4ec"/>
-    <ellipse cx="260" cy="82" rx="100" ry="20" fill="#c7d4ec"/>
-    <ellipse cx="90" cy="90" rx="90" ry="18" fill="#c7d4ec"/>
+    <ellipse cx="150" cy="70" rx="140" ry="26" fill="#9aa8c4"/>
+    <ellipse cx="260" cy="82" rx="100" ry="20" fill="#9aa8c4"/>
+    <ellipse cx="90" cy="90" rx="90" ry="18" fill="#9aa8c4"/>
     <animateTransform attributeName="transform" type="translate"
       values="-250,0; 1850,0" dur="34s" repeatCount="indefinite" />
   </g>
 
-  <g opacity="0.14" filter="url(#softBlurSmall)">
-    <ellipse cx="700" cy="110" rx="200" ry="14" fill="#ffffff"/>
+  <g opacity="0.26" filter="url(#softBlurSmall)">
+    <ellipse cx="700" cy="110" rx="200" ry="14" fill="#a3b2cc"/>
     <animateTransform attributeName="transform" type="translate"
       values="-400,0; 2000,0" dur="24s" repeatCount="indefinite" />
   </g>
-  <g opacity="0.12" filter="url(#softBlurSmall)">
-    <ellipse cx="1150" cy="120" rx="220" ry="12" fill="#ffffff"/>
+  <g opacity="0.24" filter="url(#softBlurSmall)">
+    <ellipse cx="1150" cy="120" rx="220" ry="12" fill="#a3b2cc"/>
     <animateTransform attributeName="transform" type="translate"
       values="-500,0; 2100,0" dur="30s" repeatCount="indefinite" />
   </g>
